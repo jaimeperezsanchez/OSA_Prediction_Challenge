@@ -1,4 +1,4 @@
-## Obstructive Sleep Apnea (OSA) Prediction Case Study
+## Obstructive Sleep Apnea (OSA) Prediction Challenge
 ### Machine Learning Approach
 
 #### Python 3.7
