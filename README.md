@@ -1,4 +1,4 @@
-## Obstructive Sleep Apnea (OSA) Prediction Challenge
+## Obstructive Sleep Apnea (OSA) Prediction Challenge (2019)
 ### Machine Learning Approach
 
 <img src="osa.jpg" 
